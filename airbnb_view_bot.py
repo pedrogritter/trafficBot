@@ -6,7 +6,7 @@ from pymouse import PyMouse
 
 count = 0
 max_views = 1000
-urls = ["https://www.airbnb.com/rooms/20895036?s=67&shared_item_type=1&virality_entry_point=1",
+urls = ["https://www.airbnb.com/rooms/#id",
         ]
 k = PyKeyboard()
 m = PyMouse()
